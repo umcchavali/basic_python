@@ -1,4 +1,4 @@
-# Simple Linear Regression in Python 📈
+## Simple Linear Regression in Python 📈
 This script demonstrates how to run a simple linear regression using Python. Here's a brief overview:
 
 ## What is Linear Regression? 🤔
